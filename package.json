@@ -1,0 +1,14 @@
+{
+  "name": "how-to-npm",
+  "version": "0.0.0",
+  "description": "how-to-npm",
+  "main": "app.js",
+  "author": "zonplm",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+	"once": "*"
+  }
+}
